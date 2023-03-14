@@ -1,6 +1,6 @@
 /**
  * 
- * @author Bhavana,Larisha,Melisha
+ * @author Bhavana,Larisha
  *
  *A Salary class to calculate the NetPay of an employee.
  */
