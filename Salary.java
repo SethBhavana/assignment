@@ -83,7 +83,7 @@ public class Salary {
 	/**
 	 *Method to calculate and set the DA,HRA,
 	 *GS,Income tax and net Salary of the employee 
-	 *based on the basic salary
+	 *based on the basic salary.
 	 */
 	public void calNetsalary() {
 		this.hra = 0.1*basicSalary;
